@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://kommodo.ai/i/waxHyLy8939jUOXWQKZD"/>
+<img align="right" width="380" src="/profile.jpeg"/>
 
 ```python
 class Dehaleesan:
